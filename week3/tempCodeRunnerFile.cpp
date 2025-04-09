@@ -1,0 +1,1 @@
+STRING *) malloc (3 * sizeof(STRING)
